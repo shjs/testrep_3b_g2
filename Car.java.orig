@@ -1,0 +1,12 @@
+<<<<<<< HEAD
+public class Car{
+
+    private String _name;
+    public int _carId;
+
+}
+=======
+public class Car{
+  private int _carId;
+}
+>>>>>>> 0385b0f03d76057800e2fbcc46242d33a0c07118
