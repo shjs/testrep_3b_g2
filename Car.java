@@ -1,6 +1,6 @@
 public class Car{
 
-    private String _name;
-    public int _carId;
+    private String _nameOfCar;
+    private int _carId;
     
 }
